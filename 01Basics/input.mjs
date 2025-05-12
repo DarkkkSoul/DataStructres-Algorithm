@@ -21,5 +21,4 @@ for (let i = 0; i < n; i++) {
 }
 console.log('the Array is: ', array);
 
-
 rl.close();
