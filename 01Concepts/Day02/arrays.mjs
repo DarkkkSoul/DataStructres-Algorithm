@@ -20,4 +20,9 @@ fruits[3] = 'Mango';
 console.log(fruits[0]);
 console.log(fruits[3]);
 
+console.log(fruits.length); // total elements
+console.log(fruits);
+
+console.log(fruits[fruits.length - 1]);
+console.log(fruits.at(-1));
 
