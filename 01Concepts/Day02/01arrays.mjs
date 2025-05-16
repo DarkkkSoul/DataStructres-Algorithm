@@ -41,5 +41,11 @@ const Movies = ['Snow White', 'Mufasa', 'Frozen', 'Flow', 'Lilo & Stitch'];
 // For - of loop
 for (const movie of Movies) {
    console.log(movie);
-
 }
+console.log('\n');
+
+// For each - loop
+Movies.forEach(movie => {
+   console.log(movie);
+
+});
