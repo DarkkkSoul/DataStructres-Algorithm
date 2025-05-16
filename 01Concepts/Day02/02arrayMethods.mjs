@@ -52,3 +52,6 @@ console.log('\n', movies);
 const arr3 = ['s', 'l', 'i', 'c', 'e'];
 
 console.log('\n', arr3.slice(2, 5));
+
+console.log(arr3.indexOf('c'));
+console.log(arr3.includes('p'));
